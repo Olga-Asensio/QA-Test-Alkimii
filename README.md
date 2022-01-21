@@ -9,3 +9,14 @@ TEST 4: Create a list with multiple tasks <br><br/>
 TEST 5: Create a list, name it, create multiple tasks <br><br/>
 TEST 6: Enter in the previous list, mark task as completed <br><br/>
 TEST 7: Create a list, name it, edit name, create multiple tasks , edit task name, delete any task
+
+## How to run <br><br/>
+To run the tests, execute: <br><br/>
+```
+npm run test
+```<br><br/>
+
+To open cypress, execute: <br><br/>
+```
+npm run cypress:open
+```<br><br/>
