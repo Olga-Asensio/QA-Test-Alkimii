@@ -1,0 +1,19 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "framework testing cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "automation",
+    "framework"
+  ],
+  "author": "Olga Asensio Reche",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.3.1"
+  }
+}
