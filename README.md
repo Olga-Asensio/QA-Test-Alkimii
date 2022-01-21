@@ -14,9 +14,9 @@ TEST 7: Create a list, name it, edit name, create multiple tasks , edit task nam
 To run the tests, execute: <br><br/>
 ```
 npm run test
-```<br><br/>
+```
 
 To open cypress, execute: <br><br/>
 ```
 npm run cypress:open
-```<br><br/>
+```
